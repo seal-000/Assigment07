@@ -1,5 +1,0 @@
-[build]
-builder = "Staticfile"
-
-[deploy]
-cmd = "echo 'Deployment Successful'"
