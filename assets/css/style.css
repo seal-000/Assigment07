@@ -1,0 +1,45 @@
+.navbar{
+    background-color: #212529;
+    
+}
+
+body {
+    background-color: #ADB5BD ;
+}
+
+.navbar-collapse{
+    padding-right: 20em;
+    
+}
+
+.navbar-brand {
+
+    font-size: x-large;
+    color: #E9ECEF;
+}
+
+.custom-color{
+    color: #E9ECEF;
+}
+
+
+#demo {
+
+/* top | right | bottom | left */
+margin: 2em 2em 2em 2em;
+
+}
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    padding: 1em 1em 1em 1em;
+    background-color: #F8F9FA;
+}
+
+#aboutMe {
+    max-width: 1000px;
+   
+}
+
